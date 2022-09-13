@@ -9,7 +9,7 @@ For educational purpose you can download this repo and test with it
 
  ## Creators:
 
-Repo  created by Tatiana
-First commit by Geraldine
-Script Js added by Tatiana
-Index and Styles files added By Geraldine
+- Repo  created by: Tatiana
+- First commit by Geraldine
+- Script Js added by Tatiana
+- Index and Styles files added By Geraldine
